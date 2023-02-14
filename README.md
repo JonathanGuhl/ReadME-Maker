@@ -14,8 +14,8 @@
 - Third, once you have used `cd` to get in the proper file where the repository is stored, using the command line run `node index.js` Make sure you have [Node.JS](https://nodejs.org/en/download/) before you do this!
 - From there on the the command line you will be asked a series of questions. 
 - Once you have answered all of the questions your terminal should look like so 
-![My Image](assets/Screenshot 2023-02-13 at 11.07.15 PM.png)
+ ![My Image](assets/terminal.png)
 - After you have successfully, answered all of the questions, your ReadME file will be created in your cloned repository under the name userReadMe.md
 - Your new ReadME will look like so 
-![My Image](assets/Screenshot 2023-02-13 at 11.11.23 PM.png)
+ ![My Image](assets/readme.png)
 - After that you're free to copy or edit the ReadME and use it where you see necessary!
