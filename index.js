@@ -12,15 +12,15 @@ function inputValidation(value){
 function getLicenseImage(license) {
     switch (license) {
       case "Apache License 2.0":
-        return "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
+        return "https://img.shields.io/badge/License-Apache%202.0-blue.svg";
       case "Boost Software License 1.0":
-        return "[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/users/license.html)";
+        return "https://img.shields.io/badge/License-Boost%201.0-lightblue.svg";
       case "Eclipse Public License 2.0":
-        return "[![License](https://img.shields.io/badge/License-EPL%202.0-red.svg)](https://www.eclipse.org/legal/epl-2.0/)";
+        return "https://img.shields.io/badge/License-EPL%202.0-red.svg";
       case "Mozilla Publice License 2.0":
-        return "[![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/)";
+        return "https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg";
       case "MIT License":
-        return "[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit-0/)";
+        return "https://img.shields.io/badge/License-MIT-yellow.svg";
       default:
         return "";
     }
@@ -139,7 +139,7 @@ inquirer
 
 - ${data.collab}
 
-## Questions 
+## Questions
 
 - If you would like to visit my Github you can click here https://github.com/${data.github} and if you have further questions you can reach me at ${data.email}
 `
