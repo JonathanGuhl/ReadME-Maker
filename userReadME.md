@@ -8,7 +8,7 @@
     
  - [Installation](#installation)
  - [Usage](#usage)
- - [Test](#test)
+ - [Testing](#testing)
  - [Collaborations](#collaborations)
  - [Questions](#questions)
 
@@ -20,14 +20,14 @@
 
 - Example of usage of the application
 
-## How To Test My Project
+## Testing
 
 - Example of how to test your project
 
-## How To Contribute
+## Collaborations
 
 - Example of how you would like collborations to happen
 
-## Contact Info 
+## Questions 
 
 - If you would like to visit my Github you can click here https://github.com/JonathanGuhl and if you have further questions you can reach me at example@hotmail.com
