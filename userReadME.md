@@ -8,7 +8,7 @@
     
  - [Installation](#installation)
  - [Usage](#usage)
- - [Test](#testing)
+ - [Test](#test)
  - [Collaborations](#collaborations)
  - [Questions](#questions)
 
