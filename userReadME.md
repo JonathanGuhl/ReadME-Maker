@@ -1,4 +1,4 @@
-# Example Title  ![license badge](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
+# Example title  ![license badge]([![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/))
 
 ## Description
 
