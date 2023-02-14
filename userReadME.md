@@ -1,4 +1,4 @@
-# Example title  ![license badge]([![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/))
+# Example title  ![license badge](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
 
 ## Description
 
@@ -28,6 +28,6 @@
 
 - Example of how to collaborate
 
-## Questions 
+## Questions
 
 - If you would like to visit my Github you can click here https://github.com/JonathanGuhl and if you have further questions you can reach me at example@hotmail.com
