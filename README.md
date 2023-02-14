@@ -8,10 +8,9 @@
 
 ## Usage
 
-- Before I give you step by step instructions, click this [link](assets/Application Tutorial.mp4) for the video. If you need further help after the video, follow the step by step instructions under the video.
+- Before I give you step by step instructions, watch this video. If you need further help after the video, follow the step by step instructions under the video.
 
-https://user-images.githubusercontent.com/119094131/218666190-a9e81c38-140a-4d7c-be91-057849390187.mp4
-
+https://user-images.githubusercontent.com/119094131/218674670-55b781e4-1422-4b61-bffc-2f989b19a0d4.mp4
 
 - First, you will need to clone the repository using `git clone git@github.com:JonathanGuhl/Readme-Maker.git`
 - Second, open your terminal or use the terminal within whatever IDE you use and `cd` into whatever filed you stored the clone of the repository in.
