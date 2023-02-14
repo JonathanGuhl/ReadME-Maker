@@ -4,7 +4,7 @@
 
 ## Installation
 
-- Before you can run this application you will need to install [Node.JS](https://nodejs.org/en/download/){:target="_blank"} if you don't already have it installed.
+- Before you can run this application you will need to install [Node.JS](https://nodejs.org/en/download/) if you don't already have it installed.
 
 ## Usage
 
