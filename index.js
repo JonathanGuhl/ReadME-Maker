@@ -8,6 +8,23 @@ function inputValidation(value){
         return true;
     }
 }
+// Returns the correct license image for the license selected 
+function getLicenseImage(license) {
+    switch (license) {
+      case "Apache License 2.0":
+        return "https://img.shields.io/badge/License-Apache%202.0-blue.svg";
+      case "Boost Software License 1.0":
+        return "https://img.shields.io/badge/License-Boost%201.0-lightblue.svg";
+      case "Eclipse Public License 2.0":
+        return "https://img.shields.io/badge/License-EPL%202.0-red.svg";
+      case "Mozilla Publice License 2.0":
+        return "https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg";
+      case "MIT License":
+        return "https://img.shields.io/badge/License-MIT-yellow.svg";
+      default:
+        return "";
+    }
+  }
 // Questions prompts after running 'node index.js' in command line 
 inquirer
   .prompt([
@@ -91,7 +108,8 @@ inquirer
   });
   
   function createReadMe(data) {
-    return `# ${data.title}
+    const licenseImage = getLicenseImage(data.license);
+    return `# ${data.title}  ![license badge](${licenseImage})
 
 ## Description
 
