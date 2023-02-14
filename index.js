@@ -12,15 +12,15 @@ function inputValidation(value){
 function getLicenseImage(license) {
     switch (license) {
       case "Apache License 2.0":
-        return "https://img.shields.io/badge/License-Apache%202.0-blue.svg";
+        return "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
       case "Boost Software License 1.0":
-        return "https://img.shields.io/badge/License-Boost%201.0-lightblue.svg";
+        return "[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/users/license.html)";
       case "Eclipse Public License 2.0":
-        return "https://img.shields.io/badge/License-EPL%202.0-red.svg";
+        return "[![License](https://img.shields.io/badge/License-EPL%202.0-red.svg)](https://www.eclipse.org/legal/epl-2.0/)";
       case "Mozilla Publice License 2.0":
-        return "https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg";
+        return "[![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/)";
       case "MIT License":
-        return "https://img.shields.io/badge/License-MIT-yellow.svg";
+        return "[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit-0/)";
       default:
         return "";
     }
