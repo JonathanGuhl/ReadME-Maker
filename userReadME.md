@@ -1,16 +1,16 @@
-# Example Project  ![license badge](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# Example Title  ![license badge](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
 
 ## Description
 
- - Example Description
+ - Example of Description
 
 ## Table of Contents
     
  - [Installation](#installation)
  - [Usage](#usage)
- - [How To Test](#test)
- - [How To Contribute](#collab)
- - [Contact Info](#contactInfo)
+ - [Testing](#testing)
+ - [Collaborations](#collaborations)
+ - [Questions](#questions)
 
 ## Installation
 
@@ -20,14 +20,14 @@
 
 - Example of usage information
 
-## How To Test My Project
+## Testing 
 
-- Example of how to test your application
+- Example of how to test the application
 
-## How To Contribute
+## Collaborations
 
-- Example of collab information
+- Example of how to collaborate
 
-## Contact Info 
+## Questions 
 
-- If you would like to visit my Github you can click here https://github.com/Jonathan Guhl and if you have further questions you can reach me at example@hotmail.com
+- If you would like to visit my Github you can click here https://github.com/JonathanGuhl and if you have further questions you can reach me at example@hotmail.com

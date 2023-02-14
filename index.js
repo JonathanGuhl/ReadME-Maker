@@ -119,9 +119,9 @@ inquirer
     
  - [Installation](#installation)
  - [Usage](#usage)
- - [How To Test](#test)
- - [How To Contribute](#collab)
- - [Contact Info](#contactInfo)
+ - [Testing](#testing)
+ - [Collaborations](#collaborations)
+ - [Questions](#questions)
 
 ## Installation
 
@@ -131,15 +131,15 @@ inquirer
 
 - ${data.usage}
 
-## How To Test My Project
+## Testing 
 
 - ${data.test}
 
-## How To Contribute
+## Collaborations
 
 - ${data.collab}
 
-## Contact Info 
+## Questions 
 
 - If you would like to visit my Github you can click here https://github.com/${data.github} and if you have further questions you can reach me at ${data.email}
 `

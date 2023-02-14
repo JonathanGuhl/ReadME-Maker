@@ -19,5 +19,5 @@
  ![My Image](assets/terminal.png)
 - After you have successfully answered all of the questions, your ReadME file will be created in your cloned repository under the name 'userReadMe.md'
 - Your new ReadME will look like so 
- ![My Image](assets/readme.png)
+ ![My Image](assets/generatedREADME.png)
 - After that you're free to copy or edit the ReadME and use it where you see necessary!
