@@ -8,7 +8,7 @@
 
 ## Usage
 
-- Before I give you step by step instructions, click this link for the video. If you need further help after the video, follow the step by step instructions under the video.
+- Before I give you step by step instructions, click this [link](assets/Application Tutorial.mp4) for the video. If you need further help after the video, follow the step by step instructions under the video.
 - First, you will need to clone the repository using `git clone git@github.com:JonathanGuhl/Readme-Maker.git`
 - Second, open your terminal or use the terminal within whatever IDE you use and `cd` into whatever filed you stored the clone of the repository in.
 - Third, before you run the node commands you will need to type `npm install`. You will only need to run this comman the first time after you've cloned this repository. After you've run `npm install` you will see this in the terminal 
