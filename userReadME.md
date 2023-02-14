@@ -8,9 +8,9 @@
     
  - [Installation](#installation)
  - [Usage](#usage)
- - [How To Test](#test)
- - [How To Contribute](#collab)
- - [Contact Info](#contactInfo)
+ - [How To Test](#how_to_test)
+ - [How To Contribute](#how_to_contribute)
+ - [Contact Info](#contact_info)
 
 ## Installation
 
